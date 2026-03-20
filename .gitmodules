@@ -1,3 +1,6 @@
 [submodule "backend_nodejs"]
 	path = backend_nodejs
 	url = https://github.com/sreeparnadas/backend_nodejs.git
+[submodule "frontend_reactjs"]
+	path = frontend_reactjs
+	url = https://github.com/sreeparnadas/frontend_reactjs.git
